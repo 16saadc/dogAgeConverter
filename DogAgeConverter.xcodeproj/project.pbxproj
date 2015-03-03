@@ -13,6 +13,7 @@
 		B68A05E01A9D3721009D278D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B68A05DF1A9D3721009D278D /* Images.xcassets */; };
 		B68A05E31A9D3721009D278D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B68A05E11A9D3721009D278D /* LaunchScreen.xib */; };
 		B68A05EF1A9D3721009D278D /* DogAgeConverterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68A05EE1A9D3721009D278D /* DogAgeConverterTests.swift */; };
+		B68A05F91A9D37C4009D278D /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B68A05F81A9D37C4009D278D /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		B68A05E81A9D3721009D278D /* DogAgeConverterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DogAgeConverterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B68A05ED1A9D3721009D278D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B68A05EE1A9D3721009D278D /* DogAgeConverterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogAgeConverterTests.swift; sourceTree = "<group>"; };
+		B68A05F81A9D37C4009D278D /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		B68A05D61A9D3721009D278D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B68A05F81A9D37C4009D278D /* AgeOfLaika.jpg */,
 				B68A05D71A9D3721009D278D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B68A05DE1A9D3721009D278D /* Main.storyboard in Resources */,
+				B68A05F91A9D37C4009D278D /* AgeOfLaika.jpg in Resources */,
 				B68A05E31A9D3721009D278D /* LaunchScreen.xib in Resources */,
 				B68A05E01A9D3721009D278D /* Images.xcassets in Resources */,
 			);
